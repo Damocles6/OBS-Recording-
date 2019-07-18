@@ -1,0 +1,357 @@
+00:34:51.402: CPU Name: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+00:34:51.402: CPU Speed: 3192MHz
+00:34:51.403: Physical Cores: 6, Logical Cores: 12
+00:34:51.403: Physical Memory: 16302MB Total, 8703MB Free
+00:34:51.403: Windows Version: 10.0 Build 17763 (revision: 615; 64-bit)
+00:34:51.403: Running as administrator: true
+00:34:51.403: Aero is Enabled (Aero is always on for windows 8 and above)
+00:34:51.403: Windows 10 Gaming Features:
+00:34:51.403: 	Game Bar: On
+00:34:51.403: 	Game DVR: On
+00:34:51.403: 	Game DVR Background Recording: Off
+00:34:51.404: Sec. Software Status:
+00:34:51.405: 	Norton Security: disabled (AV)
+00:34:51.405: 	Windows Defender Antivirus: enabled (AV)
+00:34:51.405: 	Norton Security: disabled (FW)
+00:34:51.405: 	Windows Firewall: enabled (FW)
+00:34:51.405: 	Windows Defender Antivirus: enabled (ASW)
+00:34:51.406: Current Date/Time: 2019-07-14, 00:34:51
+00:34:51.406: Browser Hardware Acceleration: true
+00:34:51.406: Portable mode: false
+00:34:51.593: OBS 23.2.1 (64-bit, windows)
+00:34:51.593: ---------------------------------
+00:34:51.593: ---------------------------------
+00:34:51.593: audio settings reset:
+00:34:51.593: 	samples per sec: 48000
+00:34:51.593: 	speakers:        2
+00:34:51.594: ---------------------------------
+00:34:51.594: Initializing D3D11...
+00:34:51.594: Available Video Adapters: 
+00:34:51.596: 	Adapter 0: NVIDIA GeForce GTX 1060 6GB
+00:34:51.596: 	  Dedicated VRAM: 2051014656
+00:34:51.596: 	  Shared VRAM:    4252125184
+00:34:51.596: 	  output 0: pos={0, 0}, size={1920, 1080}, attached=true
+00:34:51.598: Loading up D3D11 on adapter NVIDIA GeForce GTX 1060 6GB (0)
+00:34:51.634: D3D11 loaded successfully, feature level used: 45056
+00:34:52.406: ---------------------------------
+00:34:52.406: video settings reset:
+00:34:52.406: 	base resolution:   1920x1080
+00:34:52.406: 	output resolution: 1920x1080
+00:34:52.406: 	downscale filter:  Lanczos
+00:34:52.406: 	fps:               60/1
+00:34:52.406: 	format:            NV12
+00:34:52.406: 	YUV mode:          709/Full
+00:34:52.406: NV12 texture support enabled
+00:34:52.408: Audio monitoring device:
+00:34:52.408: 	name: Default
+00:34:52.408: 	id: default
+00:34:52.408: ---------------------------------
+00:34:52.411: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+00:34:52.412: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+00:34:52.438: [AMF] AMF Test failed due to one or more errors.
+00:34:52.438: Failed to initialize module 'enc-amf.dll'
+00:34:52.448: Module '../../obs-plugins/64bit/libEGL.dll' not loaded
+00:34:52.450: [obs-browser]: Version 2.4.0
+00:34:52.452: NVENC supported
+00:34:52.503: Couldn't find VLC installation, VLC video source disabled
+00:34:52.507: No blackmagic support
+00:34:52.512: ---------------------------------
+00:34:52.512:   Loaded Modules:
+00:34:52.512:     win-wasapi.dll
+00:34:52.512:     win-mf.dll
+00:34:52.512:     win-dshow.dll
+00:34:52.512:     win-decklink.dll
+00:34:52.512:     win-capture.dll
+00:34:52.512:     vlc-video.dll
+00:34:52.512:     text-freetype2.dll
+00:34:52.512:     rtmp-services.dll
+00:34:52.512:     obs-x264.dll
+00:34:52.512:     obs-vst.dll
+00:34:52.512:     obs-transitions.dll
+00:34:52.512:     obs-text.dll
+00:34:52.512:     obs-qsv11.dll
+00:34:52.512:     obs-outputs.dll
+00:34:52.512:     obs-filters.dll
+00:34:52.512:     obs-ffmpeg.dll
+00:34:52.512:     obs-browser.dll
+00:34:52.512:     image-source.dll
+00:34:52.512:     frontend-tools.dll
+00:34:52.512:     enc-amf.dll
+00:34:52.512:     decklink-ouput-ui.dll
+00:34:52.512:     coreaudio-encoder.dll
+00:34:52.512: ---------------------------------
+00:34:52.512: ==== Startup complete ===============================================
+00:34:52.514: All scene data cleared
+00:34:52.514: ------------------------------------------------
+00:34:52.560: WASAPI: Device 'Speakers (Realtek High Definition Audio)' initialized
+00:34:52.599: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+00:34:52.599: 
+00:34:52.662: WASAPI: Device 'Microphone (Realtek High Definition Audio)' initialized
+00:34:53.061: Switched to scene 'Scene'
+00:34:53.061: ------------------------------------------------
+00:34:53.061: Loaded scenes:
+00:34:53.061: - scene 'Scene':
+00:34:53.061:     - source: 'Game Capture' (game_capture)
+00:34:53.061: - scene 'Youtube':
+00:34:53.061:     - source: 'Youtube Capture' (game_capture)
+00:34:53.061: - scene 'Scene 2':
+00:34:53.061: ------------------------------------------------
+00:35:26.249: [game-capture: 'Game Capture'] Activate hotkey pressed
+00:35:26.258: [game-capture: 'Game Capture'] attempting to hook process: RainbowSix.exe
+00:35:26.275: [game-capture: 'Game Capture'] shared texture capture successful
+00:37:17.341: Starting recording due to hotkey
+00:37:17.342: ---------------------------------
+00:37:17.342: [NVENC encoder: 'recording_h264'] settings:
+00:37:17.342: 	rate_control: CBR
+00:37:17.342: 	bitrate:      20000
+00:37:17.342: 	cqp:          0
+00:37:17.342: 	keyint:       120
+00:37:17.342: 	preset:       hq
+00:37:17.342: 	profile:      high
+00:37:17.342: 	width:        1920
+00:37:17.342: 	height:       1080
+00:37:17.342: 	2-pass:       true
+00:37:17.342: 	b-frames:     2
+00:37:17.342: 	GPU:          0
+00:37:17.342: 
+00:37:17.625: ---------------------------------
+00:37:17.625: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+00:37:17.625: 
+00:37:17.626: ---------------------------------
+00:37:17.626: [FFmpeg aac encoder: 'Track2'] bitrate: 160, channels: 2, channel_layout: 3
+00:37:17.626: 
+00:37:17.634: ==== Recording Start ===============================================
+00:37:17.634: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Johan/Videos/game recording/2019-07-14 00-37-17.mp4'...
+00:38:56.977: Stopping recording due to hotkey
+00:38:57.258: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Johan/Videos/game recording/2019-07-14 00-37-17.mp4' stopped
+00:38:57.258: Output 'adv_file_output': stopping
+00:38:57.258: Output 'adv_file_output': Total frames output: 5962
+00:38:57.258: Output 'adv_file_output': Total drawn frames: 5978
+00:38:57.259: ==== Recording Stop ================================================
+00:47:48.183: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+00:47:48.191: [game-capture: 'Game Capture'] shared texture capture successful
+00:48:19.018: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:48:47.598: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:48:47.604: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+00:48:47.608: [game-capture: 'Game Capture'] shared texture capture successful
+00:49:20.431: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:49:33.809: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:49:33.853: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+00:49:33.858: [game-capture: 'Game Capture'] shared texture capture successful
+00:49:46.399: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:50:03.974: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:50:03.980: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+00:50:03.991: [game-capture: 'Game Capture'] shared texture capture successful
+00:50:10.198: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:50:16.790: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:50:16.822: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+00:50:16.825: [game-capture: 'Game Capture'] shared texture capture successful
+00:50:53.866: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:50:58.879: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:50:58.887: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+00:50:58.891: [game-capture: 'Game Capture'] shared texture capture successful
+00:53:39.687: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:53:53.298: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:53:53.305: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+00:53:53.308: [game-capture: 'Game Capture'] shared texture capture successful
+00:53:59.351: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:54:35.974: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:54:35.992: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+00:54:36.008: [game-capture: 'Game Capture'] shared texture capture successful
+00:55:13.597: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:55:18.792: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:55:18.807: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+00:55:18.808: [game-capture: 'Game Capture'] shared texture capture successful
+00:56:36.520: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:57:21.670: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:57:21.679: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+00:57:21.691: [game-capture: 'Game Capture'] shared texture capture successful
+00:57:25.223: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:58:05.523: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:58:05.532: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+00:58:05.541: [game-capture: 'Game Capture'] shared texture capture successful
+00:58:07.840: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:58:34.396: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+00:58:34.403: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+00:58:34.408: [game-capture: 'Game Capture'] shared texture capture successful
+01:02:47.964: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+01:03:06.620: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+01:03:06.627: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+01:03:06.641: [game-capture: 'Game Capture'] shared texture capture successful
+01:03:12.053: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+01:03:17.249: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+01:03:17.264: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+01:03:17.275: [game-capture: 'Game Capture'] shared texture capture successful
+01:06:53.261: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+01:07:25.232: Settings changed (outputs)
+01:07:25.232: ------------------------------------------------
+01:07:26.657: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+01:07:26.670: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+01:07:26.675: [game-capture: 'Game Capture'] shared texture capture successful
+01:08:04.425: [game-capture: 'Game Capture'] Activate hotkey pressed
+01:08:04.442: [game-capture: 'Game Capture'] capture stopped
+01:08:04.442: [game-capture: 'Game Capture'] attempting to hook process: RainbowSix.exe
+01:08:04.454: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+01:08:04.458: [game-capture: 'Game Capture'] shared texture capture successful
+01:08:09.508: Starting recording due to hotkey
+01:08:09.509: ---------------------------------
+01:08:09.509: [NVENC encoder: 'recording_h264'] settings:
+01:08:09.509: 	rate_control: CBR
+01:08:09.509: 	bitrate:      20000
+01:08:09.509: 	cqp:          0
+01:08:09.509: 	keyint:       120
+01:08:09.509: 	preset:       hq
+01:08:09.509: 	profile:      high
+01:08:09.509: 	width:        1920
+01:08:09.509: 	height:       1080
+01:08:09.509: 	2-pass:       true
+01:08:09.509: 	b-frames:     2
+01:08:09.509: 	GPU:          0
+01:08:09.509: 
+01:08:09.698: ---------------------------------
+01:08:09.698: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+01:08:09.698: 
+01:08:09.699: ---------------------------------
+01:08:09.699: [FFmpeg aac encoder: 'Track2'] bitrate: 160, channels: 2, channel_layout: 3
+01:08:09.699: 
+01:08:09.736: ==== Recording Start ===============================================
+01:08:09.736: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Johan/Videos/game recording/2019-07-14 01-08-09.mp4'...
+01:10:13.165: Stopping recording due to hotkey
+01:10:13.450: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Johan/Videos/game recording/2019-07-14 01-08-09.mp4' stopped
+01:10:13.450: Output 'adv_file_output': stopping
+01:10:13.450: Output 'adv_file_output': Total frames output: 7406
+01:10:13.450: Output 'adv_file_output': Total drawn frames: 7422 (7423 attempted)
+01:10:13.450: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+01:10:13.451: ==== Recording Stop ================================================
+01:10:30.040: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+01:32:48.872: Settings changed (outputs)
+01:32:48.872: ------------------------------------------------
+01:33:06.994: Settings changed (outputs)
+01:33:06.994: ------------------------------------------------
+01:33:11.401: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+01:33:11.407: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+01:33:11.408: [game-capture: 'Game Capture'] shared texture capture successful
+01:33:30.255: [game-capture: 'Game Capture'] Activate hotkey pressed
+01:33:30.258: [game-capture: 'Game Capture'] capture stopped
+01:33:30.259: [game-capture: 'Game Capture'] attempting to hook process: RainbowSix.exe
+01:33:30.275: [game-capture: 'Game Capture'] shared texture capture successful
+01:35:46.307: Starting recording due to hotkey
+01:35:46.310: ---------------------------------
+01:35:46.310: [NVENC encoder: 'recording_h264'] settings:
+01:35:46.310: 	rate_control: CBR
+01:35:46.310: 	bitrate:      80000
+01:35:46.310: 	cqp:          0
+01:35:46.310: 	keyint:       120
+01:35:46.310: 	preset:       hq
+01:35:46.310: 	profile:      high
+01:35:46.310: 	width:        1920
+01:35:46.310: 	height:       1080
+01:35:46.310: 	2-pass:       true
+01:35:46.310: 	b-frames:     2
+01:35:46.310: 	GPU:          0
+01:35:46.310: 
+01:35:46.460: ---------------------------------
+01:35:46.460: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+01:35:46.460: 
+01:35:46.461: ---------------------------------
+01:35:46.461: [FFmpeg aac encoder: 'Track2'] bitrate: 160, channels: 2, channel_layout: 3
+01:35:46.461: 
+01:35:46.472: ==== Recording Start ===============================================
+01:35:46.472: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Johan/Videos/game recording/2019-07-14 01-35-46.mp4'...
+01:40:43.278: Stopping recording due to hotkey
+01:40:43.570: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Johan/Videos/game recording/2019-07-14 01-35-46.mp4' stopped
+01:40:43.570: Output 'adv_file_output': stopping
+01:40:43.570: Output 'adv_file_output': Total frames output: 17810
+01:40:43.570: Output 'adv_file_output': Total drawn frames: 17826
+01:40:43.571: ==== Recording Stop ================================================
+01:41:30.591: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+01:41:30.591: [game-capture: 'Game Capture'] shared texture capture successful
+01:46:28.707: [game-capture: 'Game Capture'] ----------------- d3d11 capture freed ----------------
+02:16:42.544: ==== Shutting down ==================================================
+02:16:42.555: Switched to scene '(null)'
+02:16:42.555: [game-capture: 'Game Capture'] capture stopped
+02:16:42.556: WASAPI: Device 'Speakers (Realtek High Definition Audio)' Terminated
+02:16:42.559: WASAPI: Device 'Microphone (Realtek High Definition Audio)' Terminated
+02:16:42.567: All scene data cleared
+02:16:42.567: ------------------------------------------------
+02:16:42.611: Freeing OBS context data
+02:16:42.631: [Scripting] Total detached callbacks: 0
+02:16:42.649: == Profiler Results =============================
+02:16:42.649: run_program_init: 1928.53 ms
+02:16:42.649:  ┣OBSApp::AppInit: 9.831 ms
+02:16:42.649:  ┃ ┗OBSApp::InitLocale: 0.785 ms
+02:16:42.649:  ┗OBSApp::OBSInit: 1726.96 ms
+02:16:42.649:    ┣obs_startup: 3.13 ms
+02:16:42.649:    ┗OBSBasic::OBSInit: 1536.48 ms
+02:16:42.649:      ┣OBSBasic::InitBasicConfig: 0.541 ms
+02:16:42.649:      ┣OBSBasic::ResetAudio: 0.116 ms
+02:16:42.649:      ┣OBSBasic::ResetVideo: 814.255 ms
+02:16:42.649:      ┣OBSBasic::InitOBSCallbacks: 0.006 ms
+02:16:42.649:      ┣OBSBasic::InitHotkeys: 0.048 ms
+02:16:42.649:      ┣obs_load_all_modules: 103.685 ms
+02:16:42.649:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 0.67 ms
+02:16:42.649:      ┃ ┣obs_init_module(decklink-ouput-ui.dll): 0.646 ms
+02:16:42.649:      ┃ ┣obs_init_module(enc-amf.dll): 24.635 ms
+02:16:42.649:      ┃ ┣obs_init_module(frontend-tools.dll): 4.289 ms
+02:16:42.649:      ┃ ┣obs_init_module(image-source.dll): 0.004 ms
+02:16:42.649:      ┃ ┣obs_init_module(obs-browser.dll): 0.38 ms
+02:16:42.649:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 0.624 ms
+02:16:42.649:      ┃ ┃ ┗nvenc_check: 0.585 ms
+02:16:42.649:      ┃ ┣obs_init_module(obs-filters.dll): 0.009 ms
+02:16:42.649:      ┃ ┣obs_init_module(obs-outputs.dll): 0.005 ms
+02:16:42.649:      ┃ ┣obs_init_module(obs-qsv11.dll): 42.239 ms
+02:16:42.649:      ┃ ┣obs_init_module(obs-text.dll): 0.157 ms
+02:16:42.649:      ┃ ┣obs_init_module(obs-transitions.dll): 0.005 ms
+02:16:42.649:      ┃ ┣obs_init_module(obs-vst.dll): 0.001 ms
+02:16:42.649:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+02:16:42.649:      ┃ ┣obs_init_module(rtmp-services.dll): 0.315 ms
+02:16:42.649:      ┃ ┣obs_init_module(text-freetype2.dll): 0.048 ms
+02:16:42.649:      ┃ ┣obs_init_module(vlc-video.dll): 0.038 ms
+02:16:42.649:      ┃ ┣obs_init_module(win-capture.dll): 0.093 ms
+02:16:42.649:      ┃ ┣obs_init_module(win-decklink.dll): 2.282 ms
+02:16:42.649:      ┃ ┣obs_init_module(win-dshow.dll): 1.581 ms
+02:16:42.649:      ┃ ┣obs_init_module(win-mf.dll): 0 ms
+02:16:42.649:      ┃ ┣obs_init_module(win-wasapi.dll): 0.006 ms
+02:16:42.649:      ┃ ┗reset_win32_symbol_paths: 0.117 ms
+02:16:42.649:      ┣OBSBasic::ResetOutputs: 0.287 ms
+02:16:42.649:      ┣OBSBasic::CreateHotkeys: 0.145 ms
+02:16:42.650:      ┣OBSBasic::InitService: 1.166 ms
+02:16:42.650:      ┣OBSBasic::InitPrimitives: 0.068 ms
+02:16:42.650:      ┗OBSBasic::Load: 549.373 ms
+02:16:42.650: obs_hotkey_thread(25 ms): min=0.002 ms, median=0.005 ms, max=32.141 ms, 99th percentile=0.161 ms, 99.9996% below 25 ms
+02:16:42.650: audio_thread(Audio): min=0 ms, median=0.038 ms, max=67.846 ms, 99th percentile=0.943 ms
+02:16:42.650:  ┗receive_audio: min=0.001 ms, median=0.332 ms, max=67.507 ms, 99th percentile=0.654 ms, 0.166866 calls per parent call
+02:16:42.650:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.101 ms, 99th percentile=0.003 ms
+02:16:42.650:    ┗do_encode: min=0.015 ms, median=0.329 ms, max=67.502 ms, 99th percentile=0.648 ms
+02:16:42.650:      ┣encode(Track2): min=0.022 ms, median=0.265 ms, max=0.848 ms, 99th percentile=0.501 ms, 0.0957689 calls per parent call
+02:16:42.650:      ┣encode(Track1): min=0.013 ms, median=0.289 ms, max=0.849 ms, 99th percentile=0.526 ms, 0.0957074 calls per parent call
+02:16:42.650:      ┣encode(Track2): min=0.023 ms, median=0.279 ms, max=0.724 ms, 99th percentile=0.51 ms, 0.118881 calls per parent call
+02:16:42.650:      ┣encode(Track1): min=0.011 ms, median=0.317 ms, max=0.904 ms, 99th percentile=0.521 ms, 0.11882 calls per parent call
+02:16:42.650:      ┣encode(Track2): min=0.013 ms, median=0.284 ms, max=1.462 ms, 99th percentile=0.502 ms, 0.285442 calls per parent call
+02:16:42.650:      ┗encode(Track1): min=0.019 ms, median=0.32 ms, max=2.264 ms, 99th percentile=0.525 ms, 0.285381 calls per parent call
+02:16:42.650: obs_graphics_thread(16.6667 ms): min=0.071 ms, median=0.271 ms, max=386.679 ms, 99th percentile=1.177 ms, 99.9984% below 16.667 ms
+02:16:42.650:  ┣tick_sources: min=0.002 ms, median=0.018 ms, max=386.556 ms, 99th percentile=0.226 ms
+02:16:42.650:  ┣output_frame: min=0.057 ms, median=0.169 ms, max=40.29 ms, 99th percentile=0.947 ms
+02:16:42.650:  ┃ ┣gs_context(video->graphics): min=0.057 ms, median=0.167 ms, max=39.682 ms, 99th percentile=0.326 ms
+02:16:42.650:  ┃ ┃ ┣render_video: min=0.005 ms, median=0.025 ms, max=3.762 ms, 99th percentile=0.12 ms
+02:16:42.650:  ┃ ┃ ┃ ┣render_main_texture: min=0.004 ms, median=0.022 ms, max=3.755 ms, 99th percentile=0.101 ms
+02:16:42.650:  ┃ ┃ ┃ ┣render_output_texture: min=0 ms, median=0.006 ms, max=0.063 ms, 99th percentile=0.015 ms, 0.085181 calls per parent call
+02:16:42.650:  ┃ ┃ ┃ ┣render_convert_texture_nv12: min=0 ms, median=0.009 ms, max=0.119 ms, 99th percentile=0.023 ms, 0.085181 calls per parent call
+02:16:42.650:  ┃ ┃ ┃ ┗stage_output_texture: min=0 ms, median=0.012 ms, max=0.54 ms, 99th percentile=0.049 ms, 0.085181 calls per parent call
+02:16:42.650:  ┃ ┃ ┣gs_flush: min=0.031 ms, median=0.136 ms, max=7.347 ms, 99th percentile=0.232 ms
+02:16:42.650:  ┃ ┃ ┗download_frame: min=0 ms, median=0.072 ms, max=39.551 ms, 99th percentile=0.177 ms, 0.085181 calls per parent call
+02:16:42.650:  ┃ ┗output_video_data: min=0.283 ms, median=0.39 ms, max=1.334 ms, 99th percentile=0.82 ms, 0.0851483 calls per parent call
+02:16:42.650:  ┗render_displays: min=0 ms, median=0.079 ms, max=90.081 ms, 99th percentile=0.375 ms
+02:16:42.650: video_thread(video): min=0.642 ms, median=1.198 ms, max=68.333 ms, 99th percentile=3.809 ms
+02:16:42.650:  ┗receive_video: min=0.641 ms, median=1.195 ms, max=68.331 ms, 99th percentile=3.805 ms
+02:16:42.650:    ┗do_encode: min=0.641 ms, median=1.195 ms, max=68.33 ms, 99th percentile=3.804 ms
+02:16:42.650:      ┣encode(recording_h264): min=0.652 ms, median=1.09 ms, max=2.734 ms, 99th percentile=2.277 ms, 0.191382 calls per parent call
+02:16:42.650:      ┣encode(recording_h264): min=0.646 ms, median=1.014 ms, max=2.815 ms, 99th percentile=2.309 ms, 0.237674 calls per parent call
+02:16:42.650:      ┗encode(recording_h264): min=0.629 ms, median=1.236 ms, max=5.166 ms, 99th percentile=3.971 ms, 0.570943 calls per parent call
+02:16:42.650: OBSBasic::ResetOutputs: min=0.291 ms, median=0.301 ms, max=0.314 ms, 99th percentile=0.314 ms
+02:16:42.650: =================================================
+02:16:42.650: == Profiler Time Between Calls ==================
+02:16:42.650: obs_hotkey_thread(25 ms): min=24.063 ms, median=25.914 ms, max=293.828 ms, 18.2871% within ±2% of 25 ms (0.0173045% lower, 81.6956% higher)
+02:16:42.650: obs_graphics_thread(16.6667 ms): min=0.421 ms, median=16.667 ms, max=386.684 ms, 99.3549% within ±2% of 16.667 ms (0.322437% lower, 0.32271% higher)
+02:16:42.650: =================================================
+02:16:42.767: Number of memory leaks: 0
